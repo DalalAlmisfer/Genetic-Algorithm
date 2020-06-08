@@ -4,7 +4,8 @@ The goal is to find the best outfit or to optimize the user look, which consists
 
 # About the dataset 
 Its consist of pieces of clothes in the market which are : 
-Top, bottom, shoes, neck purse. 
+Top, bottom, shoes, neck purse.
+
 Given with each piece its dress code (casual, sport ,Business, evening), and its colour (dark, light), and its price( the pieces with 0 SAR is already on the user wardrobe) . 
 
 # How the code works 
